@@ -1,2 +1,3 @@
 # CONTEST
  contest projects
+MODULE
